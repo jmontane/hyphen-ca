@@ -43384,6 +43384,7 @@ invàlidament --> in_và_li_da_ment in_và_li_da_ment
 inxa --> in_xa in_xa
 inèdia i_nè_di_a --> i_nè_di_a i_nè_di_a
 inèdit in_è_dit --> i_nè_dit in_è_dit
+l'inèdit l'in_è_dit --> l'i_nè_dit l'in_è_dit
 inèpcia i_nèp_ci_a --> i_nèp_ci_a i_nèp_ci_a
 inèrcia i_nèr_ci_a --> i_nèr_ci_a i_nèr_ci_a
 inòcul i_nòcul --> i_nò_cul i_nòcul

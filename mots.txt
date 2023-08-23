@@ -43411,6 +43411,7 @@ invàlidament
 inxa
 inèdia i_nè_di_a
 inèdit in_è_dit
+l'inèdit l'in_è_dit
 inèpcia i_nèp_ci_a
 inèrcia i_nèr_ci_a
 inòcul i_nòcul

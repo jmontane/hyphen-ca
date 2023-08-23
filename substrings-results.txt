@@ -1,3 +1,5 @@
+8'8 is embedded in 8'8
++8'8
 1ba is embedded in 1ba
 +1ba
 1be is embedded in 1be
@@ -9502,6 +9504,15 @@ i1a is embedded in .i5n4ercial
 .i+1nè
 1di is embedded in .i4n3èdit
 .inè+1di
+8'8 is embedded in 'i4n3èdit
+' includes ' at pos 0
+8'8 + 8'8 -> 8'8
+'i4n3èdit is embedded in 'i4n3èdit
++'i4n3èdit
+1nè is embedded in 'i4n3èdit
+'i+1nè
+1di is embedded in 'i4n3èdit
+'inè+1di
 .indo3i is embedded in .indo3i
 +.indo3i
 1do is embedded in .indo3i
@@ -9516,6 +9527,15 @@ i1a is embedded in .i5n4ercial
 .i4n3e + 1ne -> .i4n3e
 1xo is embedded in .i4n3e4x3or
 .ine+1xo
+8'8 is embedded in 'i4n3e4x3or
+' includes ' at pos 0
+8'8 + 8'8 -> 8'8
+'i4n3e4x3or is embedded in 'i4n3e4x3or
++'i4n3e4x3or
+1ne is embedded in 'i4n3e4x3or
+'i+1ne
+1xo is embedded in 'i4n3e4x3or
+'ine+1xo
 .i2ò is embedded in .i3ònic
 .iò includes .iò at pos 0
 .i2ò + .i2ò -> .i2ò
@@ -16391,74 +16411,113 @@ u1a is embedded in -agu4ait
 .l4 + .l4 -> .l4
 .l'8s8p is embedded in .l'8s8p
 +.l'8s8p
+8'8 is embedded in .l'8s8p
+.l+8'8
 .l4 is embedded in .l'8s8c
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
 .l'8s8c is embedded in .l'8s8c
 +.l'8s8c
+8'8 is embedded in .l'8s8c
+.l' includes ' at pos 2
+.l8'8 + 8'8 -> .l8'8
 .l4 is embedded in .l'8f8t
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
 .l'8f8t is embedded in .l'8f8t
 +.l'8f8t
+8'8 is embedded in .l'8f8t
+.l' includes ' at pos 2
+.l8'8 + 8'8 -> .l8'8
 .d4 is embedded in .d'8s8p
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8s8p is embedded in .d'8s8p
 +.d'8s8p
+8'8 is embedded in .d'8s8p
+.d+8'8
 .d4 is embedded in .d'8s8c
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8s8c is embedded in .d'8s8c
 +.d'8s8c
+8'8 is embedded in .d'8s8c
+.d' includes ' at pos 2
+.d8'8 + 8'8 -> .d8'8
 .d4 is embedded in .d'8f8t
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8f8t is embedded in .d'8f8t
 +.d'8f8t
+8'8 is embedded in .d'8f8t
+.d' includes ' at pos 2
+.d8'8 + 8'8 -> .d8'8
 .n4 is embedded in .n'6
 .n includes .n at pos 0
 .n4 + .n4 -> .n4
 .n'6 is embedded in .n'6
 +.n'6
+8'8 is embedded in .n'6
+.n' includes ' at pos 2
+.n'6 + 8'8 -> .n8'8
 .l4 is embedded in .l'8s8p
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
 .l'8s8p is embedded in .l'8s8p
 .l'sp includes .l'sp at pos 0
 .l'8s8p + .l'8s8p -> .l'8s8p
+8'8 is embedded in .l'8s8p
+.l' includes ' at pos 2
+.l8'8 + 8'8 -> .l8'8
 .l4 is embedded in .l'8s8c
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
 .l'8s8c is embedded in .l'8s8c
 .l'sc includes .l'sc at pos 0
 .l'8s8c + .l'8s8c -> .l'8s8c
+8'8 is embedded in .l'8s8c
+.l' includes ' at pos 2
+.l8'8 + 8'8 -> .l8'8
 .l4 is embedded in .l'8f8t
 .l includes .l at pos 0
 .l4 + .l4 -> .l4
 .l'8f8t is embedded in .l'8f8t
 .l'ft includes .l'ft at pos 0
 .l'8f8t + .l'8f8t -> .l'8f8t
+8'8 is embedded in .l'8f8t
+.l' includes ' at pos 2
+.l8'8 + 8'8 -> .l8'8
 .d4 is embedded in .d'8s8p
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8s8p is embedded in .d'8s8p
 .d'sp includes .d'sp at pos 0
 .d'8s8p + .d'8s8p -> .d'8s8p
+8'8 is embedded in .d'8s8p
+.d' includes ' at pos 2
+.d8'8 + 8'8 -> .d8'8
 .d4 is embedded in .d'8s8c
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8s8c is embedded in .d'8s8c
 .d'sc includes .d'sc at pos 0
 .d'8s8c + .d'8s8c -> .d'8s8c
+8'8 is embedded in .d'8s8c
+.d' includes ' at pos 2
+.d8'8 + 8'8 -> .d8'8
 .d4 is embedded in .d'8f8t
 .d includes .d at pos 0
 .d4 + .d4 -> .d4
 .d'8f8t is embedded in .d'8f8t
 .d'ft includes .d'ft at pos 0
 .d'8f8t + .d'8f8t -> .d'8f8t
+8'8 is embedded in .d'8f8t
+.d' includes ' at pos 2
+.d8'8 + 8'8 -> .d8'8
 n'8hi is embedded in n'8hi
 +n'8hi
+8'8 is embedded in n'8hi
+n+8'8
 1hi is embedded in n'8hi
 n'hi includes hi at pos 2
 n'8hi + 1hi -> n'8hi
